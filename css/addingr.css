@@ -1,0 +1,35 @@
+
+
+div {
+    margin: 16px;
+    display: inline-block;
+    width: max-content;
+    background-color: thistle; 
+    
+}
+div input{
+    width: 40vh;
+    display: flex;
+    font-size: 16px;
+    height: 8vh;
+}
+
+div label {
+    display: block;
+    font-size: 20px;
+}
+div select {
+    display: inline-block;
+    font-size: 20px;
+}
+table {
+    width: 100%;
+    table-layout: fixed;
+  }
+  
+  td {
+    display: inline-block;
+    width: 33.33%;
+    box-sizing: border-box;
+  }
+  
